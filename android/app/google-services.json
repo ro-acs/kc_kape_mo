@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769712500668",
+    "project_id": "kc-kape-mo",
+    "storage_bucket": "kc-kape-mo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769712500668:android:6a47b5795252c281b985b9",
+        "android_client_info": {
+          "package_name": "com.example.kc_kape_mo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyFFFuoROROWioM4qBTe0M0BY_G9TqZd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
